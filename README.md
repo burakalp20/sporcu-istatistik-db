@@ -61,7 +61,7 @@ Tablolar arasında ilişkiler (foreign key) tanımlıdır.
 
 ## 👨‍💻 Geliştirici
 
-Burak Alp
+Burak Alp Aydoğmuş 
 Muhammed Taha Sarıkaya
 
 ---
